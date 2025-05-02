@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on web development, blockchain, or AI-related projects that solve real-world problems.
 - 🤔 I’m looking for help with getting deeper into cryptography, security protocols, and hardware-level IoT integrations.
 - 💬 Ask me about full-stack development, building APIs, FastAPI, React, TypeScript, or just tech in general.
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: [kamalesh2023@example.com]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I debug like a detective—clues, breakpoints, and the occasional coffee spill.
 
